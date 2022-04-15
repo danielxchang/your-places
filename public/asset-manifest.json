@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fd3ae6f.css",
+    "main.js": "/static/js/main.a46ef85b.js",
+    "static/css/542.b788a9ca.chunk.css": "/static/css/542.b788a9ca.chunk.css",
+    "static/js/542.71135430.chunk.js": "/static/js/542.71135430.chunk.js",
+    "static/css/99.259312e9.chunk.css": "/static/css/99.259312e9.chunk.css",
+    "static/js/99.38e882b6.chunk.js": "/static/js/99.38e882b6.chunk.js",
+    "static/css/925.9ec70aab.chunk.css": "/static/css/925.9ec70aab.chunk.css",
+    "static/js/925.ab50ac42.chunk.js": "/static/js/925.ab50ac42.chunk.js",
+    "static/css/743.860c9702.chunk.css": "/static/css/743.860c9702.chunk.css",
+    "static/js/743.e5ddc3f7.chunk.js": "/static/js/743.e5ddc3f7.chunk.js",
+    "static/css/191.28bd791e.chunk.css": "/static/css/191.28bd791e.chunk.css",
+    "static/js/191.efce5ffe.chunk.js": "/static/js/191.efce5ffe.chunk.js",
+    "static/js/491.372e797f.chunk.js": "/static/js/491.372e797f.chunk.js",
+    "index.html": "/index.html",
+    "main.6fd3ae6f.css.map": "/static/css/main.6fd3ae6f.css.map",
+    "main.a46ef85b.js.map": "/static/js/main.a46ef85b.js.map",
+    "542.b788a9ca.chunk.css.map": "/static/css/542.b788a9ca.chunk.css.map",
+    "542.71135430.chunk.js.map": "/static/js/542.71135430.chunk.js.map",
+    "99.259312e9.chunk.css.map": "/static/css/99.259312e9.chunk.css.map",
+    "99.38e882b6.chunk.js.map": "/static/js/99.38e882b6.chunk.js.map",
+    "925.9ec70aab.chunk.css.map": "/static/css/925.9ec70aab.chunk.css.map",
+    "925.ab50ac42.chunk.js.map": "/static/js/925.ab50ac42.chunk.js.map",
+    "743.860c9702.chunk.css.map": "/static/css/743.860c9702.chunk.css.map",
+    "743.e5ddc3f7.chunk.js.map": "/static/js/743.e5ddc3f7.chunk.js.map",
+    "191.28bd791e.chunk.css.map": "/static/css/191.28bd791e.chunk.css.map",
+    "191.efce5ffe.chunk.js.map": "/static/js/191.efce5ffe.chunk.js.map",
+    "491.372e797f.chunk.js.map": "/static/js/491.372e797f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd3ae6f.css",
+    "static/js/main.a46ef85b.js"
+  ]
+}
